@@ -1,6 +1,6 @@
-Получаемо весь список https://ibb.co/dG4Rjdf
+Отримуємо весь список https://ibb.co/dG4Rjdf
 
-Получаемо контакт по id https://ibb.co/269LzS8
+Отримуємо контакт по id https://ibb.co/269LzS8
 
 Добавляемо контакт https://ibb.co/Nnxz1x6
 
